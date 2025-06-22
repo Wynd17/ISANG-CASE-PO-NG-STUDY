@@ -1,0 +1,15 @@
+                               WENDELL CORP
+                                QUEZON 
+                                 City
+
+                                Payroll
+
+Employee     Employee         Status    Basic     Overtime  Deductions   Net
+Number       Name                       Salary       Pay                 Pay
+-------------------------------------------------------------------------------
+131313       wewqe            Regular   50080.00       0.00     3131.00  46949.00
+1311452      asda             Casual     5280.00 6532614.00        1.31 6537892.50
+3131         ad/qw            Unknown  623640163296174710000000000000000000.00       1.#J        0.00      1.#J
+qdqw         ddq              Unknown  385435978621369380000000000000000000.00       1.#J        0.00      1.#J
+qd           qd               Unknown  385442554558858060000000000000000000.00       1.#J        0.00      1.#J
+w
